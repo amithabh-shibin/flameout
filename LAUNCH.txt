@@ -1,0 +1,5 @@
+Upload index.html, the other four HTML pages, css/, js/, assets/, robots.txt and sitemap.xml into the same public website folder.
+Replace https://flameout.example in sitemap.xml and robots.txt with the live site address before publishing.
+Add official Facebook, Instagram and TikTok URLs in the profiles object in js/site.js to activate the icons.
+Testimonials and portraits are illustrative. Replace them with customer-approved quotations and photos for a live customer review section.
+Service and gallery photos are illustrative. The quotation form opens WhatsApp for the visitor to review and send their message.
