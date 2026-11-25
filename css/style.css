@@ -18,3 +18,5 @@
 .about-values article{border-top:2px solid var(--red);padding-top:15px}
 .about-values h2{font-size:32px;margin-bottom:10px}
 @media(max-width:800px){.profile-grid,.about-values{grid-template-columns:1fr}.profile-photo{max-height:520px;object-fit:contain;border:0}.about-values{gap:24px}}
+
+.hero .alarm-banner{object-position:70% 43%}@media(max-width:650px){.hero .alarm-banner{object-position:80% center}}
